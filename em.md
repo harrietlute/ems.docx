@@ -3,8 +3,7 @@
 
 #Introduction
 
-ems is a project of managing and storing workforce information of an organization. 
-http://www.yiiframework.com
+employee service is a project which help in managing and storing workforce information of an organization. 
 
 
 The template includes two tiers: front end and back end each of which
@@ -12,7 +11,7 @@ is a separate Yii application.
 
 The template is designed to work in a team development environment. It supports deploying the application in different environment.
 
-Documentation is at [service/README.md](service/README.md).
+Documentation is at [service/em.md](service/em.md).
 
 
 ##DIRECTORY STRUCTURE
@@ -39,4 +38,5 @@ frontend
       -service component  configure service implementation.
     nuxt.config.js   contains app setting for asset builder to load and build
     package.json     contains defines app dependencies and start scripts commands
-    
+   
+    backend

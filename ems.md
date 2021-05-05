@@ -3,8 +3,8 @@
 
 #Introduction
 
-ems is a project of managing and storing workforce information of organization. 
-http://www.yiiframework.com
+
+employee service is a project which help in managing and storing workforce information of an organization.
 
 
 The template includes two tiers: front end and back end each of which
