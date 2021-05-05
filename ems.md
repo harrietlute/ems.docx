@@ -1,10 +1,6 @@
- <p align="center">
-    <a href="https://github.com/yiisoft" target="_blank">
-        <img src="https://avatars0.githubusercontent.com/u/1" height="100px">
-    </a>
-    <h1 align="center">employee service</h1>
-    <br>
-</p>
+<h style= "color:green; text-align:center;"> PROJECT </h>
+<h1 style="color:blue; text-align:center"> employee service</h1>
+
 
 ems is a project of managing and storing workforce information of organization. 
 http://www.yiiframework.com
@@ -15,7 +11,7 @@ is a separate Yii application.
 
 The template is designed to work in a team development environment. It supports deploying the application in different environment.
 
-Documentation is at [service/README.md](service/README.md).
+Documentation is at [service/ems.md](service/ems.md).
 
 
 ##DIRECTORY STRUCTURE
